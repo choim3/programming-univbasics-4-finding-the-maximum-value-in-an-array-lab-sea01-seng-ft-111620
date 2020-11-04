@@ -6,7 +6,7 @@ def find_max_value(array)
       max_value = array[counter]
       counter += 1 
     else 
-      counter += ;
+      counter += 1 ;
     end
   end
   return max_value;
